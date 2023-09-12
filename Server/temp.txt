@@ -1,0 +1,3 @@
+mongodb+srv://vijrana:Mongo123@cluster0.btjoarf.mongodb.net/test?retryWrites=true
+mongodb+srv://vijrana:Mongo123@cluster0.btjoarf.mongodb.net/production?retryWrites=true
+mongodb+srv://vijrana:Mongo123@cluster0.btjoarf.mongodb.net/development?retryWrites=true
